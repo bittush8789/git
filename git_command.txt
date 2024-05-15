@@ -1,0 +1,16 @@
+git init
+    - to initilize an empty directory
+
+git status
+    -> 
+
+git branch
+    -
+
+git checkout -b dev
+    - to create and swith a new branch
+
+git chcekout -b master
+    - i want to go back on master branch
+
+
