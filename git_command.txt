@@ -13,4 +13,7 @@ git checkout -b dev
 git chcekout -b master
     - i want to go back on master branch
 
+git add .
+
+git commit -m "message name"
 
